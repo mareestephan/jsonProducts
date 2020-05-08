@@ -1,7 +1,7 @@
 {
   
   "pages_to_create": [
-    {
+    { "category_id": '001',
       "meta_description": "Aliquip aute aliquip commodo culpa quis excepteur nostrud laborum cupidatat. Nulla velit deserunt pariatur sint esse ut sit cupidatat culpa deserunt Lorem. Minim sit Lorem sunt nostrud commodo do deserunt id irure consectetur commodo elit commodo. Incididunt veniam commodo dolor duis dolore ipsum in minim officia in labore fugiat quis deserunt.\r\n",
       "meta_title": "Buy Kane Online | Best Prices on Dejesus | ISOSWITCH",
       "count_matched": 10,
@@ -36,7 +36,7 @@
         }
       ]
     },
-    {
+    {"category_id": '002',
       "meta_description": "Ea aute ad dolore officia esse. Non sint ad ex ea. Velit in ad consectetur Lorem dolor id consectetur sunt. Occaecat aute anim id proident reprehenderit nisi. Lorem Lorem exercitation aliqua et sint. Commodo amet aliqua irure nisi pariatur ullamco minim laboris sunt nostrud.\r\n",
       "meta_title": "Buy Thornton Online | Best Prices on Mckinney | ACRODANCE",
       "count_matched": 5,
@@ -97,7 +97,7 @@
         }
       ]
     },
-    {
+    {"category_id": '003',
       "meta_description": "Consectetur ex et nulla adipisicing cupidatat. Enim veniam velit reprehenderit ipsum. Occaecat labore Lorem cupidatat aute aliquip enim ad occaecat id. Aliqua aliquip qui commodo deserunt proident occaecat voluptate nisi aliquip Lorem ut anim aute. Laborum non consectetur esse occaecat id ea.\r\n",
       "meta_title": "Buy Figueroa Online | Best Prices on Leblanc | RUBADUB",
       "count_matched": 1,
