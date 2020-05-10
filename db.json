@@ -1,6 +1,6 @@
 {
   
-  "pages_to_create": [
+  "pages_to_create":{ [
     { "category_id": 1,
       "meta_description": "Aliquip aute aliquip commodo culpa quis excepteur nostrud laborum cupidatat. Nulla velit deserunt pariatur sint esse ut sit cupidatat culpa deserunt Lorem. Minim sit Lorem sunt nostrud commodo do deserunt id irure consectetur commodo elit commodo. Incididunt veniam commodo dolor duis dolore ipsum in minim officia in labore fugiat quis deserunt.\r\n",
       "meta_title": "Buy Kane Online | Best Prices on Dejesus | ISOSWITCH",
@@ -132,5 +132,5 @@
         }
       ]
     }
-  ]
+  ]}
 }
